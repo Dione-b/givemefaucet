@@ -9,7 +9,7 @@ import {
 } from 'wagmi/chains';
 
 export const config = getDefaultConfig({
-  appName: 'RainbowKit App',
+  appName: 'GivemeFaucet App',
   projectId: 'YOUR_PROJECT_ID',
   chains: [
     mainnet,
